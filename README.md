@@ -1,6 +1,9 @@
- WebAssembly in React with C and TypeScript
+## Integrating WebAssembly with C in React using TypeScript
 
-Generating .wasm file with EMCC (Please run you terminal as administrator) 
+This project demonstrates how to use WebAssembly in a ReactJS application by compiling C code with Emscripten and integrating it using TypeScript. The goal is to combine the performance benefits of WebAssembly with the modern development capabilities of React and TypeScript.
+
+Generating .wasm file using EMCC
+**Note:** Please run you terminal as administrator
 
  ![Animation_cpp_wasm_terminal](https://github.com/Vahan003/webassembly-react-typescript/assets/55839598/7d0886bf-7b13-4e1f-8d88-31824583c577)
 
